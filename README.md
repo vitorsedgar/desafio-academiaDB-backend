@@ -1,0 +1,1 @@
+Versão java adopt-openjdk-11

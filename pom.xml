@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.dbserver</groupId>
-    <artifactId>desafio-academiadb</artifactId>
+    <artifactId>desafio-academiadb-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>desafio-academiadb</name>
+    <name>desafio-academiadb-backend</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

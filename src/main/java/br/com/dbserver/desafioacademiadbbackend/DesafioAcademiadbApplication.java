@@ -1,4 +1,4 @@
-package br.com.dbserver.desafioacademiadb;
+package br.com.dbserver.desafioacademiadbbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
