@@ -3,7 +3,7 @@ package br.com.dbserver.desafioacademiadbbackend.dto.request;
 import lombok.Data;
 
 @Data
-public class AtendimentoRequest {
+public class IniciarAtendimentoRequest {
 
     private String codigoMedico;
 

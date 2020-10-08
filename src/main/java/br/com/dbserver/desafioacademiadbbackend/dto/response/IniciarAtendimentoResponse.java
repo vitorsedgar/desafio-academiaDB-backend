@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @Builder
-public class AtendimentoResponse {
+public class IniciarAtendimentoResponse {
 
     private int codigoAtendimento;
 
